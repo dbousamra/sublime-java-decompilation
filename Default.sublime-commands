@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Java decompile",
+        "command": "decompile_java"
+    }
+]

@@ -1,0 +1,4 @@
+{
+	// The path to the Jad executable. Use just the path to its location, not the executable. I.e. /usr/bin/ not /usr/bin/jad
+	"jad_location": "/usr/bin/"
+}
